@@ -1,0 +1,5 @@
+/Users/jinxiaosa/moos-ivp/moos-ivp-extend/build/src/lib_behaviors-test/CMakeFiles/BHV_SimpleWaypoint.dir
+/Users/jinxiaosa/moos-ivp/moos-ivp-extend/build/src/pExampleApp/CMakeFiles/pExampleApp.dir
+/Users/jinxiaosa/moos-ivp/moos-ivp-extend/build/src/pUSBGPSrecorder/CMakeFiles/pUSBGPSrecorder.dir
+/Users/jinxiaosa/moos-ivp/moos-ivp-extend/build/src/pXRelayTest/CMakeFiles/pXRelayTest.dir
+/Users/jinxiaosa/moos-ivp/moos-ivp-extend/build/src/pYrfirst/CMakeFiles/pYrfirst.dir

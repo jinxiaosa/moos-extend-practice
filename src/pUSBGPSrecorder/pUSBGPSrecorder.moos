@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pUSBGPSrecorder config block
+
+ProcessConfig = pUSBGPSrecorder
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

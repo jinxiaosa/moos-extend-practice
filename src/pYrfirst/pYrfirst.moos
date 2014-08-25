@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pYrfirst config block
+
+ProcessConfig = pYrfirst
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

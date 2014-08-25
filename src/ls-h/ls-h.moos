@@ -1,0 +1,9 @@
+//------------------------------------------------
+// ls-h config block
+
+ProcessConfig = ls-h
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

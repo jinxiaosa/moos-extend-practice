@@ -1,0 +1,1 @@
+/usr/bin/c++    -fPIC -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/pExampleApp.dir/main.cpp.o  -o ../../../bin/pExampleApp  -L/Users/jinxiaosa/moos-ivp/lib  /Users/jinxiaosa/moos-ivp/MOOS/MOOSCore/lib/libMOOS.a -lm -lpthread -Wl,-rpath,/Users/jinxiaosa/moos-ivp/lib 
